@@ -20,9 +20,6 @@ print "Error: can\'t find file or read data"
 else:
 print "Written content in the file successfully"
 ```
-[image1](SS/SS1.jpg)
-dan ini adalah hasil ouputnya:
-[image2](SS/SS2.jpg)
 
 ## Clause
 
@@ -32,9 +29,6 @@ fh.write("This is my test file for exception handling!!")
 finally:
 print "Error: can\'t find file or read data"
 ```
-[image3](SS/SS3.jpg)
-ini adalah hasil ouputnya:
-[image4](SS/SS4.jpg)
 
 ## Raise
 
@@ -42,9 +36,6 @@ ini adalah hasil ouputnya:
 if level < 1:
 raise "Invalid level!", level
 ```
-[image5](SS/SS5.jpg)
-dan ini adalah hasil ouputnya:
-[image6](SS/SS6.jpg)
 
 ## User Defined
 
@@ -52,10 +43,14 @@ dan ini adalah hasil ouputnya:
 def __init__(self, arg):
 self.args = arg
 ```
-[image7](SS/SS7.jpg)
-dan ini adalah hasil ouputnya:
-[image8](SS/SS8.jpg)
 
+## Gambar
 
-
-
+![image1](SS/SS1.jpg)
+![image2](SS/SS2.jpg)
+![image3](SS/SS3.jpg)
+![image4](SS/SS4.jpg)
+![image5](SS/SS5.jpg)
+![image6](SS/SS6.jpg)
+![image7](SS/SS7.jpg)
+![image8](SS/SS8.jpg)
